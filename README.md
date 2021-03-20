@@ -11,11 +11,11 @@
 
 # 简介
 
-👯✨😄📫
+👯✨📫
 
 联通手机营业厅自动完成每日任务，领流量、签到获取积分等，月底流量不发愁。
 
-开源不易，如果本项目对你有帮助，那么就请给个star吧。😄
+开源不易，如果本项目对你有帮助，那么就请给个star吧。
 
 # 目录
 
@@ -84,7 +84,7 @@
 > `https://m.client.10010.com/mobileService/customer/accountListData.htm`（退出客户端重新进入，在请求体中）
 
 其中，后三个链接在安卓也是适用的。
- 
+
 ### 3.将参数填到Secrets
 
 在`Secrets`中的`Name`和`Value`格式如下：
@@ -125,7 +125,7 @@ USERS_COVER | config.json中内容
 
 `push`操作会触发工作流运行。
 
-删除掉`README.md`中的😄即可。完成后，每天早上`6:30`将自动完成每日任务。
+删除掉`README.md`中的即可。完成后，每天早上`6:30`将自动完成每日任务。
 
 ![](https://draw-static.vercel.app/UnicomTask/进行一次push操作.gif)
 
@@ -148,7 +148,7 @@ USERS_COVER | config.json中内容
 ### 3.将参数填到Secrets
 
 `Name`和`Value`格式如下：
-  
+
 Name | Value
 -|-
 TENCENT_SECRET_ID | 腾讯云用户SecretID(需要主账户，子账户可能没权限)
@@ -229,4 +229,5 @@ TOKEN | Github Personal access tokens
 [mixool/HiCnUnicom](https://github.com/mixool/HiCnUnicom)，感谢该项目对于登录部分的思路
 
 [happy888888/BiliExp](https://github.com/happy888888/BiliExp)，参考了该项目的云函数实现
+
 # liantong

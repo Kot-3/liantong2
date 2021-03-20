@@ -1,0 +1,13 @@
+﻿[
+    {
+        "username": "13118660429",
+        "password": "727415",
+        "appId": "2a834d71bd261a5e0aaf6ab3342de851415014bdfb57459ca89ea593c677c1036f949b527064405498b9bc69274cb9291a8f29523e08384502f541907175558d09c6d83db9eea707a6b55f2d99566be2",
+        "IFTTT": {
+            "apiKey": "IFTTT Webhook key",
+            "eventName": "unicom_task",
+            "subjectKey": "比如value1",
+            "contentKey": "比如value2"
+        }
+    }
+]
